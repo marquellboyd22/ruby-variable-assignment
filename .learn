@@ -5,3 +5,8 @@ languages:
   - ruby
 resources: 2
 
+2.6.1 :006 > irb
+2.6.1 :001 > gretting = "hello world"
+ => "hello world" 
+2.6.1 :002 > gretting
+ => "hello world" 
